@@ -1,0 +1,4 @@
+﻿  nlp.cpp
+C:\Users\Zeinab\source\repos\nlp\nlp\nlp.cpp(26,23): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Zeinab\source\repos\nlp\nlp\nlp.cpp(31,23): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  nlp.vcxproj -> C:\Users\Zeinab\source\repos\nlp\x64\Debug\nlp.exe
